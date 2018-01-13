@@ -1,0 +1,169 @@
+	*{
+		box-sizing: border-box;
+	}
+
+	body{
+		margin: 0;
+		padding: 0;
+	}
+
+	.about img{
+		margin-top: 30px;
+		width: 300px;
+		height: 250px;
+	}
+
+	.about-ruby{
+		margin: 0 auto;
+		padding-top: 50px;
+		text-align: center;
+	}
+
+	.about-text p{
+		margin: 0 auto;
+		padding-top: 30px;
+		/*text-align: left;*/
+	}
+
+	.btn {
+		width: 120px;
+		border-radius: 20px;
+	}
+
+	.carousel {
+		margin-top: 30px;
+	}
+
+	.footer-icons img{
+		margin-top: 40px;
+		padding-left: 5px;
+	}
+	.footer-bottom{
+		background: #393A3A;
+		height: 200px;
+	}
+
+	.footer-power{
+		color: #ff0;
+	}
+	.footer-text{
+		font-size: 13px;
+		color: #fff;
+		padding-top: 50px;
+	}
+	.footer-top{
+		background: #1f1f1f;
+		height: 100px;
+	}
+
+	.form-fields{
+		padding-top: 10px;
+		margin: 0 auto;
+	}
+
+	/*.form-fields_button{
+		margin: 0 auto;
+		padding-top: 10px;
+		padding-right: 10px;
+	}*/
+
+	.julie-image{
+		margin-top: 30px;
+	}
+	/*.navbar-brand img{
+		height: 300px;
+		margin: 0 auto
+		width: 300px;
+	}*/
+	.navbar-nav{
+		margin: 0 auto;
+	}
+	.nav-item{
+		padding-top: 10px;
+	}
+
+	.nav-link{
+		color: #640F7F;
+		font-size: 14px;
+		font-weight: 500;
+		text-transform: uppercase;
+	}
+
+	.newsletter-heading{
+		background: #C1D5E9;
+		padding-top: 30px;
+		text-align: center;
+	}
+
+	.newsletter-privacy{
+		font-size: 14px;
+		margin-top: 30px;
+		padding-bottom: 30px;
+	}
+
+
+	.office-deliveries{
+		margin-top: 30px;
+	}
+	.office-deliveries h1{
+		font-weight: 700;
+		text-transform: uppercase;
+	}
+
+	.office-deliveries img{
+		padding-top: 10px;
+		/*margin-left: 35px;*/
+	}
+
+	.parlours{
+		margin-top: 30px;
+	}
+
+	.parlours-img{
+		margin-top: 20px;
+	}
+
+	.parlours h1{
+		font-weight: 700;
+		text-align: center;
+		text-transform: uppercase;
+	}
+
+	.parlours-location{
+		margin-top: 30px;
+	}
+
+	.parlours-location h4{
+		font-weight: 200;
+		text-transform: uppercase;
+	}
+
+	.parlours-row{
+		margin: 0 auto;
+	}
+
+	.press h1{
+		font-weight: 700;
+		margin-top: 50px;
+		text-align: center;
+		text-transform: uppercase;
+	}
+
+	.press-info{
+		margin-top: 30px;
+	}
+
+	.press-info h3{
+		font-weight: 200;
+		margin-top: 20px;
+
+	}
+
+	.site-logo img{
+		width: 300px;
+		max-width: 300px;
+		padding-bottom: 20px;
+		padding-top: 30px;
+	}
+
+	
